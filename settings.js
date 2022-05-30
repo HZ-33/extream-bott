@@ -2,7 +2,7 @@
 global.nomerOwner ="6289605393009"
 global.nomerOwner2 = "628889126340"
 global.ownerName = "HFZ"
-global.botName = "Extream Botz" 
+global.botName = "immortal" 
 global.sessionName ="session"
 global.setmenu ="location"
 global.docType = "docx"
@@ -26,7 +26,7 @@ global.authorName = "Crew"
 global.replyType = "web2"
 global.setwelcome = "type1"
 global.autoblockcmd = false
-global.autoReport = true
+global.autoReport = false
 global.autoLevel = false
 global.autoSticker = false
 global.gamewaktu = 60
