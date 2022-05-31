@@ -25,19 +25,14 @@
   <img src="https://komarev.com/ghpvc/?username=officialdittaz&label=VIEWS&style=flat-square&color=orange" />
 </p>
 
+## SC SUPPORT RUN OKTETO DAN HEROKU
+
 ## For Windows/Vps/Rdp
 
 * Unduh & Instal Git [`Klik Disini`](https://git-scm.com/downloads)
 * Unduh & Instal NodeJS [`Klik Disini`](https://nodejs.org/en/download)
 * Unduh & Instal FFmpeg [`Klik Disini`](https://ffmpeg.org/download.html) (**Jangan Lupa Tambahkan FFmpeg ke variabel lingkungan PATH**)
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
-
-```bash
-git clone https://github.com/officialdittaz/Amelia-Botz
-cd Amelia-Botz
-npm i
-npm start
-```
 
 
 ## For Termux
@@ -53,11 +48,8 @@ npm start
 > cd /sdcard && cd SelfBot && npm start
 ```
 
-## For Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kangsad01/Wabot-Tsb01)
-
-### Install Buildpack
+### Buildpack Heroku
 * heroku/nodejs
 * https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
 * https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
