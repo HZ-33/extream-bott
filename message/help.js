@@ -54,7 +54,7 @@ ${week}, ${calender}
  ◉ Saldo : Rp ${balance}
  ◉ Prefix : 「 ${prefix} 」
  ◉ Library : *Baileys-MD*.
- ◉ Running On : *Replit*
+ ◉ Running On : *Heroku*
  ◉ Mode : ${publik ? "Public" : "Self"}
  ◉ Runtime : ${kyun(process.uptime())}
  ◉ Time : ${timeWib} WIB 
