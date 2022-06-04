@@ -70,7 +70,7 @@ ${week}, ${calender}
  ◉ Cmd Blocked : ${JSON.parse(fs.readFileSync('./database/blockcmd.json')).length} 
  
  
-  *]───── LIST MENU—͟͟͞͞𖣘 ─────[*
+  *]── LIST MENU—͟͟͞͞𖣘 ──[*
 					          ▾`}
 
 exports.fitur = (prefix) => {
