@@ -17,12 +17,12 @@
 
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=officialdittaz&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HFZ&theme=monokai)
 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=officialdittaz&label=VIEWS&style=flat-square&color=orange" />
+  <img src="https://komarev.com/ghpvc/?username=HFZ&label=VIEWS&style=flat-square&color=orange" />
 </p>
 
 ## SC SUPPORT RUN OKTETO DAN HEROKU
