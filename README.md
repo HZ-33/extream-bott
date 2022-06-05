@@ -27,6 +27,9 @@
 
 ## SC SUPPORT RUN OKTETO DAN HEROKU
 
+## BUAT AMBIL SESSION NYA  [`Klik Disini`](https://replit.com/@Gigigaming/Md-Scanner?lite=1&outputonly=1)
+   𝙅𝘼𝙉𝙂𝘼𝙉 𝙇𝙐𝙋𝘼 𝙐𝘽𝘼𝙃 𝙆𝙀 𝙈𝙊𝘿𝙀 𝘿𝙀𝙎𝙆𝙏𝙊𝙋 𝘽𝙍𝙊𝙒𝙎𝙀𝙍 𝙉𝙔𝘼 𝘽𝙄𝘼𝙍 𝘽𝙄𝙎𝘼 𝘿𝙄 𝙎𝘾𝘼𝙉
+
 ## For Windows/Vps/Rdp
 
 * Unduh & Instal Git [`Klik Disini`](https://git-scm.com/downloads)
